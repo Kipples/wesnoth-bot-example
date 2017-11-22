@@ -1,0 +1,2 @@
+* A wesnoth-bot example
+this is an example wesnoth bot that shows how to setup and connect the bot to the server.
